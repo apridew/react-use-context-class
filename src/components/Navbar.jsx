@@ -5,6 +5,7 @@ const Navbar = () => {
     <nav>
       <div className="nav-link d-flex gap-3">
         <Link to={"/"}>Home</Link>
+        <b>|</b>
         <Link to={"/menu"}>Menu</Link>
       </div>
       <SwitchTheme />
