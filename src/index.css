@@ -22,7 +22,7 @@ nav {
 }
 
 .dark-theme {
-  background-color: #000;
+  background-color: #464646;
   color: #fff;
   min-height: 100vh;
   padding: 1rem;
@@ -41,7 +41,7 @@ nav {
 }
 
 .light-theme {
-  background-color: #fff;
+  background-color: #f5f5f5;
   color: #000;
   min-height: 100vh;
   padding: 1rem;
