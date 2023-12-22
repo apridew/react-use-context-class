@@ -108,6 +108,11 @@ nav input {
   border: 1px solid rgba(128, 128, 128, 0.496);
 }
 
+.form-check-input {
+  width: 2.5em !important;
+  height: 25px;
+}
+
 .form-check-input:focus {
   border-color: none;
   outline: 0;
